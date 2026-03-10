@@ -11,7 +11,7 @@
         android:id="@+id/ivLogo"
         android:layout_width="160dp"
         android:layout_height="160dp"
-        android:src="@drawable/ic_radio"
+        android:src="@drawable/logo_radio"
         android:contentDescription="Logo Radio Nueva Aurora" />
 
     <TextView
