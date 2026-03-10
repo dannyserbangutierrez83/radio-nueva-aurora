@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var btnPlayStop: Button
     private lateinit var tvStatus: TextView
 
-    private val streamUrl = "http://icecast.nueva-aurora.org:8000/main.mp3"
+    private val streamUrl = "https://radio.nueva-aurora.org/main.mp3"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
