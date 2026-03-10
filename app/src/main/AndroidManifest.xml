@@ -9,8 +9,8 @@
     <application
         android:allowBackup="true"
         android:usesCleartextTraffic="true"
-        android:icon="@drawable/logo_radio"
-        android:roundIcon="@drawable/logo_radio"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:label="Radio Nueva Aurora"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
